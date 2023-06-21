@@ -1,7 +1,6 @@
-# Welcome To my Profile
-## just testing 
+# Hi👋 My name is Amisha Gathe
+## A budding data enthusiast
 
-- 👋 Hi, My name is Amisha Gathe
 - 👀 I'm interested in analysing and visualizing data. 
 - 🌱 I’m currently working on Python, SQL and Tableau for understanding and uncovering insights from data. 
 - 📫 How to reach me amishagathe411@gmail.com 
