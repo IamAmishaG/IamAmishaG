@@ -7,7 +7,8 @@
 
 ### 💼 Data Analysis Projects 
 
-
+- Excel Dashboard [https://github.com/IamAmishaG/Portfolio/tree/main]
+- Instagram Analysis 
 
 ### 👨🏽‍💻 Top Technologies
 
