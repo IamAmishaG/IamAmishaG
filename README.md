@@ -1,4 +1,4 @@
-## Hi there, I'm Amisha <img src="images\waving-hand.gif" alt="hi" width="35px" height="35px">
+## Hi there👋 I'm Amisha <img src="images\waving-hand.gif" alt="hi" width="35px" height="35px">
 
 **I'm a data analytics enthusiast. I enjoy exploring data to get insights and create an impactful story out of it.**
 
