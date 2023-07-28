@@ -26,7 +26,7 @@
 
 <br>
 -->
-### :mailbox: Reach me out!
+### :mailbox: Reach me out @
 
 [![Linkedin Badge][linkedinbadge]][linkedin]  [![Mail Badge](https://img.shields.io/badge/-amishagathe411@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)][gmail]
 
