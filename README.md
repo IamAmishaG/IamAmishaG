@@ -8,7 +8,7 @@
 ### 💼 Data Analysis Projects 
 
 - [Sales Analysis- Microsoft Excel](https://github.com/IamAmishaG/Bike-Sales-Analysis-in-Excel)
-- [Instagram Insights Analysis- EDA](https://github.com/IamAmishaG/Instagram-Insights-EDA)
+- [Social Media Insights Analysis- EDA](https://github.com/IamAmishaG/Instagram-Insights-EDA)
 
 ### 👨🏽‍💻 Top Technologies
 
