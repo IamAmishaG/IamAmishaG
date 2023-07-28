@@ -2,7 +2,7 @@
 
 **I'm a data analytics enthusiast. I enjoy exploring data to get insights and create an impactful story out of it.**
 
-- 🌱 I’m currently working on SQL and Python for Data Analysis and on powerful reporting tools such as Tableau, PowerBI. 
+- 🌱 I’m currently working on SQL and Python for Data Analysis and on powerful reporting tools- Tableau, PowerBI. 
 - 💞️ I’m looking to learn and collaborate with other data enthusiasts
 
 ### 💼 Data Analysis Projects 
