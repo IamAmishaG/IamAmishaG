@@ -9,7 +9,7 @@
 
 - [Sales Analysis- Microsoft Excel](https://github.com/IamAmishaG/Bike-Sales-Analysis-in-Excel)
 - [Social Media Insights Analysis- EDA](https://github.com/IamAmishaG/Instagram-Insights-EDA)
-- [Instagram User Analytics- SQL + Power BI](https://github.com/IamAmishaG/Instagram-User-Activity-Analysis)
+- [Instagram User Activity Analysis- SQL + Power BI](https://github.com/IamAmishaG/Instagram-User-Activity-Analysis)
 - [E-Commerce Sale Insights and Customer Segmentation using RFM Analysis- SQL + Tableau](https://github.com/IamAmishaG/E-commerce-Sales-Inisghts-and-Customer-Segmentation-using-RFM-Analysis)
 
 ### 👨🏽‍💻 Top Technologies
