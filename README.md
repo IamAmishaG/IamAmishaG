@@ -11,7 +11,10 @@
 - [Social Media Insights Analysis- EDA Python](https://github.com/IamAmishaG/Instagram-Insights-EDA)
 - [Instagram User Activity Analysis- SQL + Power BI](https://github.com/IamAmishaG/Instagram-User-Activity-Analysis)
 - [E-Commerce Sale Insights and Customer Segmentation using RFM Analysis- SQL + Tableau](https://github.com/IamAmishaG/E-commerce-Sales-Inisghts-and-Customer-Segmentation-using-RFM-Analysis)
-- [SQL Projects](https://github.com/IamAmishaG/SQL-Projects/tree/main)
+
+### Individual Projects
+
+[SQL Projects](https://github.com/IamAmishaG/SQL-Projects/tree/main)
 
 ### 👨🏽‍💻 Top Technologies
 
